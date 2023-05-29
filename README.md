@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert.
 - 👀 I’m interested in Music, Sports, Math and Python.
-- 🌱 I’m currently learning Python for Data Science, Data Science with Python and several other things too...
-- 💞️ I’m looking to participate and collaborate on this rapidly growing learning field of skills and kwnoledege we have embarked on.
+- 🌱 I’m currently growing in Python for Data Science, Python Development and Web Development
+- 💞️ I’m eager to collaborate on this rapidly expanding field of skills and kwnoledege.
 - 📫 How to reach me: robertverdier2014@gmail.com is the best place to start!
 
 <!---
